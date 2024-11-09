@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a Unreal Engine video game for an assignment at University
+- 🌱 I’m currently learning Unreal Engine and 3D Modeling in Maya
+- 🤔 I’m looking for help with expanding my learning with game development
+- ⚡ Fun fact: I do Bee Keeping with my Dad
 <!--
 **Guntar04/guntar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
