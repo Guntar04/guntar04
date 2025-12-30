@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-My name is Arthur, and I'm a student currenlty studying a Bachelor of Software Engineering with a Major in Game Development. Im interested in videos games, coding and football!
+My name is Arthur, I've done a Bachelor of Software Engineering with a Major in Game Development. I'm interested in videos games, coding and football!
 
-- 🔭 I’m currently working on completeing my studys
-- 🌱 I’m currently learning to improve on my C# skills
+- 🔭 I’m currently working on finding myself a job in the IT field
+- 🌱 I’m currently learning to improve on my coding skills
 - 🤔 I’m looking for help with expanding my learning with my coding skills
 - ⚡ Fun fact: I do Bee Keeping with my Dad
 <!--
